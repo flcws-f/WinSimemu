@@ -1,3 +1,4 @@
 body{
-  background-image:url("imgs/bg.png");
+  background-color:transparent;
+  background-image:url("./imgs/bg.png");
 }
