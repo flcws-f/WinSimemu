@@ -1,2 +1,2 @@
 # WinSimemu
-WinSimemu APP For Android, the official site. 
+WinSimemu APP For Android. 
